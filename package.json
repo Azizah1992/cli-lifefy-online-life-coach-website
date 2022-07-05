@@ -9,7 +9,11 @@
 	},
 	"license": "ISC",
 	"dependencies": {
+		"@types/chalk": "^2.2.0",
+		"@types/figlet": "^1.5.4",
 		"axios": "^0.27.2",
+		"chalk": "^4.0.1",
+		"figlet": "^1.5.2",
 		"inquirer": "^8.2.4",
 		"uuid": "^8.3.2"
 	},
